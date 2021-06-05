@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TomEpsilon!
-- 👀 I’m interested in Python!
-- 🌱 I’m currently learning Python! (of course)
-- 💞️ I’m looking to collaborate with other python coders!
+- 👋 Hi, I’m Tom.
+- 👀 I’m interested in C, HTML and Python.
+- 🌱 I’m currently learning the C family.
+- 💞️ I’m looking to contribute in more files when I can.
 - 📫 How to reach me: replit.com/@TomAnacondo
 
 <!---
