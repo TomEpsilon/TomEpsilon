@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Tom.
-- 👀 I’m interested in C, HTML and Python.
-- 🌱 I’m currently learning the C family.
+- 🧠 I have good knowledge in HTML and Python.
+- 📖 I’m currently learning the C family.
 - 💞️ I’m looking to contribute in more files when I can.
-- 📫 How to reach me: replit.com/@TomAnacondo
+- 📫 How to reach me: http://replit.com/@TomAnacondo
 
 <!---
 TomEpsilon/TomEpsilon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
